@@ -1,7 +1,6 @@
 # Program make a simple calculator
 # Program make a simple calculator
 # Program make a simple calculator
-# Program make a simple calculato
 # This function adds two numbers 
 def add(x, y):
    return x + y
