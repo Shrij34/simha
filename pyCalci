@@ -2,8 +2,6 @@
 # Program make a simple calculators
 # This function adds two numbers 
 =======
- #Program make a simple calculator
- #Program make a simple calculator
  #This function adds two numbers 
 >>>>>>> 573aaa8bb2c3786732adb0b31daac0531aa54350
 def add(x, y):
